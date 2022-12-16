@@ -22,6 +22,14 @@
         "image": ["https://i.im.ge/2022/11/18/SdIPxz.Mac-Book-Pro-16-Mockup.png"],
         "desc": "All those trips to Starbucks and Target can add up. Take control with myBudget.",
         "skills": "Django | SQL | Python | Bootstrap"
-      }
+    },
+    {
+        "name": "League of Ordinary Men",
+        "live": "https://leagueofordinarymen.herokuapp.com/",
+        "git": "https://github.com/joeycalt/fantasy",
+        "image": ["https://i.im.ge/2022/12/16/dHFpkq.Iphone-X-White-2.png"],
+        "desc": "Fantasy Football site for my league to catch up on some facts!",
+        "skills": "React | Bootstrap | API | MongoDB"
+    }
     ]
   
