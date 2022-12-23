@@ -17,7 +17,7 @@
     },
     {
         "name": "myBudget",
-        "live": "https://mybudget725.herokuapp.com/",
+        "live": "https://mybudgetapp.herokuapp.com/",
         "git": "https://github.com/joeycalt/myBudget",
         "image": ["https://i.im.ge/2022/11/18/SdIPxz.Mac-Book-Pro-16-Mockup.png"],
         "desc": "All those trips to Starbucks and Target can add up. Take control with myBudget.",
