@@ -32,6 +32,14 @@
       "skills": "React | Bootstrap | API "
     },
     {
+      "name": "Emoji Matching",
+      "live": "https://joeycalt.github.io/Matching-project/",
+      "git": "https://github.com/joeycalt/Matching-project",
+      "image": ["https://i.im.ge/2022/12/29/qWM4sq.Iphone-X-White-3.png"],
+      "desc": "Memory Matching with emojis!",
+      "skills": "JavaScript | CSS | HTML"
+    },
+    {
       "name": "InstantGrammification",
       "live": "https://instant-gramifictation.herokuapp.com/",
       "git": "https://github.com/TimRathert/Project-2",
@@ -39,6 +47,4 @@
       "desc": "Like Instagram, but not.",
       "skills": "EJS | JavaScript | HTML | Bootstrap"
     }
-    ]
-  
-    
+]
